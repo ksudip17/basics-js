@@ -1,5 +1,3 @@
-//JS for EventListener //
-
 let btn = document.querySelector("button");
 
 btn.addEventListener("click", function () {
